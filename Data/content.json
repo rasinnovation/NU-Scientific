@@ -1,0 +1,44 @@
+{
+  "page1": {
+    "id": 1,
+    "title": "Equipment-1",
+    "price": "200000",
+    "description-1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores culpa dolore earum impedit ipsa iure modi nemo nesciunt nisi nulla, optio quibusdam quis, repellendus reprehenderit sint totam ullam vero voluptate.",
+    "description-2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores culpa dolore earum impedit ipsa iure modi nemo nesciunt nisi nulla, optio quibusdam quis, repellendus reprehenderit sint totam ullam vero voluptate."
+  },
+  "page2": {
+    "id": 2,
+    "title": "Equipment-2",
+    "price": "250000",
+    "description-1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores culpa dolore earum impedit ipsa iure modi nemo nesciunt nisi nulla, optio quibusdam quis, repellendus reprehenderit sint totam ullam vero voluptate.",
+    "description-2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores culpa dolore earum impedit ipsa iure modi nemo nesciunt nisi nulla, optio quibusdam quis, repellendus reprehenderit sint totam ullam vero voluptate."
+  },
+  "page3": {
+    "id": 3,
+    "title": "Equipment-3",
+    "price": "225000",
+    "description-1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores culpa dolore earum impedit ipsa iure modi nemo nesciunt nisi nulla, optio quibusdam quis, repellendus reprehenderit sint totam ullam vero voluptate.",
+    "description-2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores culpa dolore earum impedit ipsa iure modi nemo nesciunt nisi nulla, optio quibusdam quis, repellendus reprehenderit sint totam ullam vero voluptate."
+  },
+  "page4": {
+    "id": 4,
+    "title": "Part-1",
+    "price": "200",
+    "description-1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores culpa dolore earum impedit ipsa iure modi nemo nesciunt nisi nulla, optio quibusdam quis, repellendus reprehenderit sint totam ullam vero voluptate.",
+    "description-2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores culpa dolore earum impedit ipsa iure modi nemo nesciunt nisi nulla, optio quibusdam quis, repellendus reprehenderit sint totam ullam vero voluptate."
+  },
+  "page5": {
+    "id": 5,
+    "title": "Part-2",
+    "price": "330",
+    "description-1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores culpa dolore earum impedit ipsa iure modi nemo nesciunt nisi nulla, optio quibusdam quis, repellendus reprehenderit sint totam ullam vero voluptate.",
+    "description-2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores culpa dolore earum impedit ipsa iure modi nemo nesciunt nisi nulla, optio quibusdam quis, repellendus reprehenderit sint totam ullam vero voluptate."
+  },
+  "page6": {
+    "id": 6,
+    "title": "Part-3",
+    "price": "220",
+    "description-1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores culpa dolore earum impedit ipsa iure modi nemo nesciunt nisi nulla, optio quibusdam quis, repellendus reprehenderit sint totam ullam vero voluptate.",
+    "description-2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores culpa dolore earum impedit ipsa iure modi nemo nesciunt nisi nulla, optio quibusdam quis, repellendus reprehenderit sint totam ullam vero voluptate."
+  }
+}
